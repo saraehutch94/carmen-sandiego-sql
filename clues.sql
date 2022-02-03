@@ -78,6 +78,8 @@ WHERE city.name = 'Serra';
 
 -- Write SQL query here
 
+-- * FIRST SOLUTION: TWO SELECT STATEMENTS: *
+
 -- SELECT capital
 -- FROM country
 -- WHERE country.name = 'Brazil';
